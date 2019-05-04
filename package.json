@@ -1,0 +1,10 @@
+{
+  "name": "ulrshort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "validator": "^10.11.0"
+  }
+}
